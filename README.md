@@ -13,7 +13,9 @@
 - Optional: Solarpanel
 
 Die ABS-Platten wurden mir dem Lasercutter ausgeschnitten. Die Vorlagen mit Incskape öffnen:
+
 *.SVG Inkscape: https://inkscape.org/de/release/inkscape-1.0.1/ 
 
 Das Programm in den NANO laden:
+
 *.INO Arduino: https://www.arduino.cc/en/Main/Software
