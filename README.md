@@ -1,6 +1,6 @@
 # Arduino-BOT_Mover1
 
-Stückliste:
+##Stückliste:
 
 - 1 Arduino NANO
 - 4 Getriebemotoren mit Räder
@@ -12,7 +12,7 @@ Stückliste:
 - Kleinmaterial, Schrauben, Muttern, Klemmen, Draht
 - Optional: Solarpanel
 
-Die ABS-Platten wurden gelasert. Die Vorlagen mit Incskape öffnen:
+Die ABS-Platten wurden mir dem Lasercutter ausgeschnitten. Die Vorlagen mit Incskape öffnen:
 *.SVG Inkscape: https://inkscape.org/de/release/inkscape-1.0.1/ 
 
 Das Programm in den NANO laden:
