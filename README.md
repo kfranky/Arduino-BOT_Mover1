@@ -8,7 +8,9 @@ Stückliste:
 - 1 Ultraschallmodul HC-SR04 
 - 1 IKY-022 IR Empfänger CHQ1838 Sensor mit Fernbedienung
 - 2 ABS Platten Kunststoff 29x21cm
+- 2 86550 Akkus mit Akkucase
 - Kleinmaterial, Schrauben, Muttern, Klemmen, Draht
+- Optional: Solarpanel
 
 Die ABS-Platten wurden gelasert. Die Vorlagen mit Incskape öffnen:
 *.SVG Inkscape: https://inkscape.org/de/release/inkscape-1.0.1/ 
