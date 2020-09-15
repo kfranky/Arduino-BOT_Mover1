@@ -1,4 +1,5 @@
 # Arduino-BOT_Mover1
+![ardu](https://github.com/frankyhub/png/blob/master/ardu.png)
 
 ## Stückliste:
 
