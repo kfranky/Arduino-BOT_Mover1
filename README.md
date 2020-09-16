@@ -1,6 +1,8 @@
 # Arduino-BOT_Mover1
 ![ardu](https://github.com/frankyhub/png/blob/master/ardu.png)
 
+![BOT](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Botmov.JPG)
+
 ## Stückliste:
 
 - 1 Arduino NANO
