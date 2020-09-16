@@ -11,12 +11,14 @@
 - 2 ABS Platten Kunststoff 29x21cm
 - 2 18650 Akkus mit Akkucase
 - Kleinmaterial, Schrauben, Muttern, Klemmen, Draht
+- Platinenhalter https://github.com/frankyhub/openscad-Beispiele/blob/master/008%20Platinenhalter/008%20Platinenhalter.png
 - Optional: Solarpanel
 
-Die ABS-Platten wurden mir dem Lasercutter ausgeschnitten. Die Vorlagen mit Incskape öffnen.
+Die ABS-Platten wurden mir dem Lasercutter ausgeschnitten (Incskape-Vorlage).
 
 *.SVG Inkscape: https://inkscape.org/de/release/inkscape-1.0.1/ 
 
 Das Programm in den NANO laden.
 
 *.INO Arduino: https://www.arduino.cc/en/Main/Software
+
