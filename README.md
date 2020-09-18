@@ -16,11 +16,9 @@
 - Platinenhalter https://github.com/frankyhub/openscad-Beispiele/blob/master/008%20Platinenhalter/008%20Platinenhalter.png
 - Optional: Solarpanel
 
-Die ABS-Platten wurden mir dem Lasercutter ausgeschnitten (Incskape-Vorlage).
-
 *.SVG Inkscape: https://inkscape.org/de/release/inkscape-1.0.1/ 
 
-Das Programm in den NANO laden.
-
 *.INO Arduino: https://www.arduino.cc/en/Main/Software
+
+![image](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Arbeitsschritte%20Arduino%20Bot.pdf)
 
