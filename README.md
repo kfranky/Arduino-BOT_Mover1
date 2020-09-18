@@ -20,9 +20,9 @@
 
 *.INO Arduino: https://www.arduino.cc/en/Main/Software
 
-[Arbeitsschritte Arduino BOT-Mover](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Arbeitsschritte%20Arduino%20Bot.pdf)
-
 ## Links:
+
+### Arbeitsschritte Arduino BOT-Mover: [Link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Arbeitsschritte%20Arduino%20Bot.pdf)
 
 ### Deck- und Bodenplatte (SVG-File): [Link](https://github.com/frankyhub/Arduino-BOT_Mover1)
 
