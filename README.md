@@ -26,19 +26,19 @@
 
 ### Deck- und Bodenplatte (SVG-File):
 
-![link](https://github.com/frankyhub/Arduino-BOT_Mover1)
+[Link](https://github.com/frankyhub/Arduino-BOT_Mover1)
 
 ### Platinenhalter:
 
-![link](https://github.com/frankyhub/openscad-Beispiele/tree/master/008%20Platinenhalter)
+[Link](https://github.com/frankyhub/openscad-Beispiele/tree/master/008%20Platinenhalter)
 
 ### Schaltplan:
 
-![link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Schaltplan%20Nano%20V2.pdf)
+[Link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Schaltplan%20Nano%20V2.pdf)
 
 ### Arduino Programm:
 
-![link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Mover1_V1-ARDUINO_Files.zip)
+[Link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Mover1_V1-ARDUINO_Files.zip)
 
 
 
