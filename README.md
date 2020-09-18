@@ -10,7 +10,7 @@
 - 1 Dual-H-Brücke-DC-Schrittmotorantrieb L298N
 - 1 Ultraschallmodul HC-SR04 
 - 1 IKY-022 IR Empfänger CHQ1838 Sensor mit Fernbedienung
-- 2 ABS Platten Kunststoff 29x21cm
+- 2 ABS Platten Kunststoff 29x21cm 4mm dick
 - 2 18650 Akkus mit Akkucase
 - Kleinmaterial, Schrauben, Muttern, Klemmen, Draht
 - Platinenhalter
