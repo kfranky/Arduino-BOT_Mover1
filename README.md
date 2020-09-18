@@ -20,5 +20,5 @@
 
 *.INO Arduino: https://www.arduino.cc/en/Main/Software
 
-![image](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Arbeitsschritte%20Arduino%20Bot.pdf)
+Arbeitsschritte: https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Arbeitsschritte%20Arduino%20Bot.pdf
 
