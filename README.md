@@ -16,11 +16,13 @@
 - Platinenhalter
 - Optional: Solarpanel
 
-Download Inkscape (*.svg): [Link](https://inkscape.org/de/release/inkscape-1.0.1) 
 
-Downlaod Arduino (*.ino): [Link](https://www.arduino.cc/en/Main/Software)
 
 ## Links:
+
+- Download Inkscape (*.svg): [Link](https://inkscape.org/de/release/inkscape-1.0.1) 
+
+- Downlaod Arduino (*.ino): [Link](https://www.arduino.cc/en/Main/Software)
 
 - Arbeitsschritte Arduino BOT-Mover: [Link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Arbeitsschritte%20Arduino%20Bot.pdf)
 
