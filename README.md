@@ -14,7 +14,7 @@
 - 2 18650 Akkus mit Akkucase
 - Kleinmaterial, Schrauben, Muttern, Klemmen, Draht
 - Platinenhalter
-- Optional: Solarpanel
+- Optional: Solarpanel für die Akku-Ladung
 
 
 
