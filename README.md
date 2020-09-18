@@ -16,9 +16,9 @@
 - Platinenhalter
 - Optional: Solarpanel
 
-*.SVG Inkscape: [Link](https://inkscape.org/de/release/inkscape-1.0.1) 
+Download Inkscape (*.svg): [Link](https://inkscape.org/de/release/inkscape-1.0.1) 
 
-*.INO Arduino: [Link](https://www.arduino.cc/en/Main/Software)
+Downlaod Arduino (*.ino): [Link](https://www.arduino.cc/en/Main/Software)
 
 ## Links:
 
