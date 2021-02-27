@@ -30,11 +30,9 @@ int enable2Pin = 32;
 
 ## Stückliste:
 
-- 1 Arduino NANO
+- 1 Arduino ESP32
 - 4 Getriebemotoren mit Räder
 - 1 Dual-H-Brücke-DC-Schrittmotorantrieb L298N
-- 1 Ultraschallmodul HC-SR04 
-- 1 IKY-022 IR Empfänger CHQ1838 Sensor mit Fernbedienung
 - 2 ABS Platten Kunststoff 29x21cm 4mm dick
 - 2 18650 Akkus mit Akkucase
 - Kleinmaterial, Schrauben, Muttern, Klemmen, Draht
@@ -54,7 +52,5 @@ int enable2Pin = 32;
 - Deck- und Bodenplatte (SVG-File): [Link](https://github.com/frankyhub/Arduino-BOT_Mover1)
 
 - Platinenhalter: [Link](https://github.com/frankyhub/openscad-Beispiele/tree/master/008%20Platinenhalter)
-
-- Schaltplan: [Link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/Schaltplan%20Nano%20V2.pdf)
 
 - Arduino Programm: [Link](https://github.com/frankyhub/Arduino-BOT_Mover1/blob/master/WEB-Robocar-ESP32/WEB-Robocar-ESP32.ino)
