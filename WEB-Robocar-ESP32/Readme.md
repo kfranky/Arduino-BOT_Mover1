@@ -1,5 +1,5 @@
 ## RoboCar - gesteuert über einen WEB-Server
-Bei diesem Robo-Car wird der NANO gegen einen ESP32 ausgetauscht und über einen WEB-Server gesteuert. Die Hardware entpricht dem BOT-Mover1. Die IP-Adresse wird im seriellen Monitor angezeigt.
+Bei diesem Robo-Car wird der NANO gegen einen ESP32 ausgetauscht und mit einen WEB-Server gesteuert. Die Hardware entpricht dem BOT-Mover1. Die IP-Adresse wird im seriellen Monitor angezeigt.
 
 Die Anschlüsse vom ESP32 zur Dual-H-Brücke-DC-Schrittmotorantrieb L298N:
 
