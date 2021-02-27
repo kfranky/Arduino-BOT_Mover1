@@ -30,7 +30,7 @@ int enable2Pin = 32;
 
 ## Stückliste:
 
-- 1 Arduino ESP32
+- 1 ESP32
 - 4 Getriebemotoren mit Räder
 - 1 Dual-H-Brücke-DC-Schrittmotorantrieb L298N
 - 2 ABS Platten Kunststoff 29x21cm 4mm dick
